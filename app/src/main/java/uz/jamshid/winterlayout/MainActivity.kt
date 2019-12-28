@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        winter.setSnowSize(20)
+//        winter.setSnowSize(20)
     }
 
     fun start(view: View) {
