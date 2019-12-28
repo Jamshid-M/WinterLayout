@@ -1,4 +1,4 @@
-# WinterLayout <img src="https://github.com/Jamshid-M/WinterLayout/blob/master/gifs/snowflake.png" height="25" width="25">
+# WinterLayout <img src="https://github.com/Jamshid-M/WinterLayout/blob/master/gifs/snowflake.png" height="30" width="30">
 
 ## Happy New Year :tada: :santa: :christmas_tree:
 
