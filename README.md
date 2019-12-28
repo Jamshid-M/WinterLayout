@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/Jamshid-M/WinterLayout.svg)](https://jitpack.io/#Jamshid-M/WinterLayout)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-WinterLayout-green.svg?style=flat )]( https://android-arsenal.com/details/1/7994 )
+
 # WinterLayout <img src="https://github.com/Jamshid-M/WinterLayout/blob/master/gifs/snowflake.png" height="30" width="30">
 
 ## Happy New Year :tada: :santa: :christmas_tree:
