@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WinterLayout">
+        <attr name="snowCount" format="integer"/>
+        <attr name="minAmplitude" format="integer"/>
+        <attr name="maxAmplitude" format="integer"/>
+        <attr name="minSpeed" format="integer"/>
+        <attr name="maxSpeed" format="integer"/>
+        <attr name="minSize" format="integer"/>
+        <attr name="maxSize" format="integer"/>
+        <attr name="snowImage" format="reference"/>
+    </declare-styleable>
+</resources>
